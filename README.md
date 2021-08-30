@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning core JS
 - 💞️ I’m looking to collaborate on my projects 
 - 📫 How to reach me @dixitmrityunjay321@gmail.com
-<a href="https://twitter.com/MrityunjayDixi9" style="align=center"><img src="./img/twitter.png" /></a>
+<a href="https://twitter.com/MrityunjayDixi9" style="align=center; width:5px; height:10px;"><img src="./img/twitter.png" /></a>
 
 <!---
 mj-this-side/mj-this-side is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

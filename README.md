@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mj-this-side
+<h1> Hi,👋 I am Mrityunjay Dixit -aka- <a href="https://github.com/mj-this-side/">MJ</a></h1>
 - 👀 I’m interested in web development and data structures
 - 🌱 I’m currently learning core JS
 - 💞️ I’m looking to collaborate on my projects 

@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning core JS
 - 💞️ I’m looking to collaborate on my projects 
 - 📫 How to reach me 
-<a href="https://twitter.com/MrityunjayDixi9"><img src="./img/twitter.png" align="center" width="35px" height="30px"/></a>
+<a href="https://twitter.com/MrityunjayDixi9"><img src="./img/twitter.png" align="center" width="35px" height="35px"/></a>
 <a href="https://www.facebook.com/mrityunjay.dixit.9081"><img src="./img/facebook.png" align="center" width="35px" height="30px"/></a>
 <a href="https://www.instagram.com/mj_this_side_/"><img src="./img/instagram.png" align="center" width="35px" height="30px"/></a>
 <a href="https://www.linkedin.com/in/mrityunjay-dixit-41885a189/"><img src="./img/linkedin.png" align="center" width="35px" height="30px"/></a>

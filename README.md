@@ -7,7 +7,7 @@
 <a href="https://www.facebook.com/mrityunjay.dixit.9081"><img src="./img/facebook.png" align="center" width="35px" height="30px"/></a>
 <a href="https://www.instagram.com/mj_this_side_/"><img src="./img/instagram.png" align="center" width="35px" height="30px"/></a>
 <a href="https://www.linkedin.com/in/mrityunjay-dixit-41885a189/"><img src="./img/linkedin.png" align="center" width="35px" height="30px"/></a>
-<a href="mailto:dixitmrityunjay321@gmail.com"><img src="./img/gmail.png" align="center" width="35px" height="30px"/></a>
+<a href="mailto:dixitmrityunjay321@gmail.com"><img src="./img/gmail.jpg" align="center" width="35px" height="30px"/></a>
 
 
 
